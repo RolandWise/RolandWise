@@ -42,8 +42,6 @@
 <h3> Backend </h3>
 
 ![Tec](./assets/icons/security.svg)
-![Tec](./assets/icons/nodejs.svg)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/go-498ede?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/RUST-%23000.svg?logo=rust&logoColor=white&style=for-the-badge)
