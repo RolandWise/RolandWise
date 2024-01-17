@@ -30,6 +30,8 @@
 ![React](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next js](https://img.shields.io/badge/next-494a49?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-c40606?style=for-the-badge&logo=angular&logoColor=white)
+![Hugo](https://img.shields.io/badge/HUGO-%23df1690.svg?logo=hugo&logoColor=white&style=for-the-badge)
+![Astro](https://img.shields.io/badge/ASTRO-%23ff6200.svg?logo=astro&logoColor=white&style=for-the-badge)
 
 
 <h3> Mobile </h3>
