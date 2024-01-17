@@ -46,6 +46,7 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Go](https://img.shields.io/badge/go-498ede?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/RUST-%23000.svg?logo=rust&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-b33232?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%2319191c.svg?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge) 
@@ -121,7 +122,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-
 
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
