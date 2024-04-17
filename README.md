@@ -41,17 +41,16 @@
 
 <h3> Backend </h3>
 
-![Tec](./assets/icons/security.svg)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white&style=for-the-badge)
 ![Go](https://img.shields.io/badge/go-498ede?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/RUST-%23000.svg?logo=rust&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-b33232?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%2319191c.svg?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white&style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)
 ![Deno JS](https://img.shields.io/badge/deno%20js-000000?logo=deno&logoColor=white&style=for-the-badge) 
-
+![Tec](./assets/icons/security.svg)
 
 
 <h3> Webservice </h3>
