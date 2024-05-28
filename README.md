@@ -46,6 +46,7 @@
 ![Go](https://img.shields.io/badge/go-498ede?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/RUST-%23000.svg?logo=rust&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/java-b33232?style=for-the-badge&logo=java&logoColor=white)
+![Quarkus](https://img.shields.io/badge/QUARKUS-1d1e1e)
 ![Kotlin](https://img.shields.io/badge/kotlin-%2319191c.svg?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge)
