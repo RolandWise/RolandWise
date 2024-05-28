@@ -92,10 +92,11 @@
 
 <h3> Web Server </h3>
 
-![Envoy](https://img.shields.io/badge/ENVOY-%23000.svg?logo=envoy&logoColor=white&style=for-the-badge)
+
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-045dbd?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-a11b03?style=for-the-badge&logo=apache&logoColor=white)
+![Envoy](https://img.shields.io/badge/ENVOY-%23000.svg?logo=envoy&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-045dbd?style=for-the-badge&logo=docker&logoColor=white)
 
 
 <!--
