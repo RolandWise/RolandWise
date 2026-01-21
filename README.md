@@ -9,7 +9,7 @@
 [![Social](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/2250102676300)
 
 
-<h2>✔️ Fullstack Developer </h2> 
+<h2>✔️ Senior Software Engineer </h2> 
 
 ![RolandWise GitHub](https://github-readme-stats.vercel.app/api?username=RolandWise&show_icons=true&theme=dark&card_width=446)
 
